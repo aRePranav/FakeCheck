@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Models (large files — don't push to GitHub)
+models/*.pkl
+
+# Data (large files — don't push to GitHub)
+data/*.csv
+data/*.xlsx
+data/*.zip
+
+# Outputs (generated files)
+outputs/*.png
+outputs/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
