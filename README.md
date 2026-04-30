@@ -1,6 +1,6 @@
-# FakeCheck — Real-Time Fake News Detection System
+# FakeCheck Real-Time Fake News Detection System
 
-> **Major Project | Intrainz AI Internship**
+> **Major Internship Project**
 > **Author: R Pranav**
 
 ---
@@ -13,7 +13,7 @@ FakeCheck is an end-to-end **fake news detection system** that:
 - Trained on **72,134 labeled articles** (WELFake dataset)
 - Compares **4 ML models** and selects the best one automatically
 - Supports **batch prediction** from a CSV file
-- Fully **explainable** — shows exactly which words drove the decision
+- Fully **explainable** - shows exactly which words drove the decision
 
 ---
 
@@ -52,8 +52,6 @@ fakecheck/
 
 Download from Kaggle:
 https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
-
-Place the file as: `data/WELFake_Dataset.csv`
 
 ---
 
